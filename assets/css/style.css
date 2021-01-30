@@ -1,0 +1,32 @@
+.{
+	margin: 0px;
+	padding: 0px;
+	font-family: candara;
+}
+body{
+	margin: 100px;
+}
+.box{
+	height: 350px;
+	width: 500px;
+	border: 2px dotted blue;
+	margin: 0px auto;
+	background-color: yellow
+}
+.box input{
+	display: block;
+	padding: 5px;
+	border: 1px solid black;
+	margin: 2px auto;
+	width: 450px;
+}
+
+.box h2{
+	text-align: center;
+}
+.box button{
+	margin: 3px 214px;
+}
+.box h3{
+	text-align: center;
+}
